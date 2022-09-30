@@ -17,7 +17,7 @@
   
   <template>
     <h1>{{ msg }}</h1>
-    <img src="../public/favicon.ico" alt="favicon" />
+    <img src="../public/pouce.png" alt="pouce" />
     <p>identifie toi ici :</p>
     <button @click="login()">Connexion avec google</button><br />
     <button @click="logingit()">Connexion avec git</button><br />
